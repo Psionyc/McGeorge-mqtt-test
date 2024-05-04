@@ -13,11 +13,11 @@ Before running the project, ensure you have the following installed:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-repository/mqtt-example.git
+   git clone https://github.com/Psionyc/McGeorge-mqtt-test.git
    ```
 2. Navigate into the project directory:
    ```bash
-   cd mqtt-example
+   cd McGeorge-mqtt-test
    ```
 3. Install the required packages using Yarn:
    ```bash
